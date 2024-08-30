@@ -1,3 +1,3 @@
 # Mini-Project
 
-This Repository Contains Myntra Website Clone
+This Repository Contains Myntra Website Clone.
